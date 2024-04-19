@@ -1,3 +1,7 @@
-# skywalker
+# Transactions Analysis
 
-![Alt text](relative%20path/to/img.jpg?raw=true "Title")
+## ETL Pipeline
+
+![ETL Pipeline](https://github.com/njska/skywalker/blob/master/ETL_Pipeline.drawio.png)
+
+
